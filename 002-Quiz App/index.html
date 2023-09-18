@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anime Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Anime Quiz</h1>
+        <p>Test your anime knowledge</p>
+    </header>
+
+    <div class="container">
+        <section id="p0">
+        <h3> 1 - Who is the main character in "Naruto"?</h3>
+        <label>
+            <input type="radio" value="1" name="p0" onclick="respuesta(0, this)"> Naruto Uzumaki
+        </label>
+        <label>
+            <input type="radio" value="2" name="p0" onclick="respuesta(0, this)"> Sasuke Uchiha
+        </label>
+        <label>
+            <input type="radio" value="3" name="p0" onclick="respuesta(0, this)"> Sakura Haruno
+        </label>
+        </section>
+
+        <section id="p1">
+        <h3> 2 - Which anime features the Straw Hat Pirates?</h3>
+        <label>
+            <input type="radio" value="1" name="p1" onclick="respuesta(1, this)"> One Piece
+        </label>
+        <label>
+            <input type="radio" value="2" name="p1" onclick="respuesta(1, this)"> Dragon Ball Z
+        </label>
+        <label>
+            <input type="radio" value="3" name="p1" onclick="respuesta(1, this)"> Attack on Titan
+        </label>
+        </section>
+
+        <section id="p2">
+        <h3> 3 - In "Death Note," what is the main character Light Yagami's alias?</h3>
+        <label>
+            <input type="radio" value="1" name="p2" onclick="respuesta(2, this)"> L
+        </label>
+        <label>
+            <input type="radio" value="2" name="p2" onclick="respuesta(2, this)"> Near
+        </label>
+        <label>
+            <input type="radio" value="3" name="p2" onclick="respuesta(2, this)"> Kira
+        </label>
+        </section>
+
+        <section id="p3">
+        <h3> 4 - Which anime series follows the adventures of Monkey D. Luffy?</h3>
+        <label>
+            <input type="radio" value="1" name="p3" onclick="respuesta(3, this)"> Bleach
+        </label>
+        <label>
+            <input type="radio" value="2" name="p3" onclick="respuesta(3, this)"> One Piece
+        </label>
+        <label>
+            <input type="radio" value="3" name="p3" onclick="respuesta(3, this)"> Fullmetal Alchemist
+        </label>
+        </section>
+
+        <section id="p4">
+        <h3> 5 - What is the name of the main character in "My Hero Academia"?</h3>
+        <label>
+            <input type="radio" value="1" name="p4" onclick="respuesta(4, this)"> Izuku Midoriya
+        </label>
+        <label>
+            <input type="radio" value="2" name="p4" onclick="respuesta(4, this)"> Naruto Uzumaki
+        </label>
+        <label>
+            <input type="radio" value="3" name="p4" onclick="respuesta(4, this)"> Luffy D. Monkey
+        </label>
+        </section>
+
+        <button onclick="verificar()">Check Answers</button>
+        <h2>Correct Answers: <span id="resultado"></span></h2>
+    </div>
+
+    <script src="index.js"></script>
+
+</body>
+</html>
