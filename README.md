@@ -12,6 +12,8 @@ Este repositorio contiene una lista de los proyectos que he creado como parte de
 | 2   | [Quizz App](https://github.com/Jose-Familia/DevCentennialChallenge/tree/main/002-Quiz%20App) | Anime Quizz |
 | 3   | [Rock, Paper, Scissors](https://github.com/Jose-Familia/DevCentennialChallenge/tree/main/003-Rock%2CPaper%2CScissors) | Rock, Paper, Scissors |
 | 4   | [Hangman Game](https://github.com/Jose-Familia/DevCentennialChallenge/tree/main/004-Hangman%20Game) | Hangman Game |
+| 5   | [Weather App](https://github.com/Jose-Familia/DevCentennialChallenge/tree/main/005-Weather%20App) | Weather Api App |
+| 6   | [To Do List](https://github.com/Jose-Familia/DevCentennialChallenge/tree/main/006-To%20Do) | To Do List |
 
 
 </div>
