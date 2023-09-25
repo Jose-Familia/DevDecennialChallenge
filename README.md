@@ -16,6 +16,7 @@ Este repositorio contiene una lista de los proyectos que he creado como parte de
 | 6   | [To Do List](https://github.com/Jose-Familia/DevCentennialChallenge/tree/main/006-To%20Do) | To Do List |
 | 7   | [Scrolling Site](https://github.com/Jose-Familia/DevCentennialChallenge/tree/main/007-Scrolling%20site) | List whit scrolling .js|
 | 8   | [Profile Card](https://github.com/Jose-Familia/DevCentennialChallenge/tree/main/008-Profile%20Card) | Simple Profile Card|
+| 9   | [Tic Tac Toe](https://github.com/Jose-Familia/DevCentennialChallenge/tree/main/009-Tic%20Tac%20Toe%20Game) | Tic Tac Toe Game|
 
 
 </div>
