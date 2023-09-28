@@ -1,8 +1,8 @@
 <div align="center">
 
-# DevCentennialChallenge - 100 Days / 100 Projects
+# DevDecennialChallenge - 10 Days / 10 Projects
 
-Este repositorio contiene una lista de los proyectos que he creado como parte del Desafío DevCentennial de 100 días. Cada proyecto está acompañado de enlaces al código fuente y una breve descripción.
+Este repositorio contiene una lista de los proyectos que he creado como parte del Desafío DevCentennial de 10 días. Cada proyecto está acompañado de enlaces al código fuente y una breve descripción.
 
 ## Lista de Proyectos
 
@@ -18,8 +18,5 @@ Este repositorio contiene una lista de los proyectos que he creado como parte de
 | 8   | [Profile Card](https://github.com/Jose-Familia/DevCentennialChallenge/tree/main/008-Profile%20Card) | Simple Profile Card|
 | 9   | [Tic Tac Toe](https://github.com/Jose-Familia/DevCentennialChallenge/tree/main/009-Tic%20Tac%20Toe%20Game) | Tic Tac Toe Game|
 | 10  | [Login](https://github.com/Jose-Familia/DevCentennialChallenge/tree/main/010-Login%20Form) | Login Form|
-
-https://github.com/Jose-Familia/DevCentennialChallenge/tree/main/010-Login%20Form
-
 
 </div>
